@@ -5,14 +5,17 @@ FOR THE AUTOMATED INSTALLATION OF THIS IN TERMUX;JUST USE THIS
 THIS COMMAND AND IT WILL AUOMATICALLY DOWNLOAD AND SET-UP NIKTO IN TERMUX 
 FOR YOU. 
 TYPE THIS COMMAND.
-curl -LO https://raw.githubusercontent.com/bensh4/nikto-sym-fix/master/nikto-sym-fix.sh
+
+>> ```curl -LO https://raw.githubusercontent.com/bensh4/nikto-sym-fix/master/nikto-sym-fix.sh```
 This script will be cloned in your $HOME.
 
 >>NOW ALLOW PERMISSION FOR THE SCRIPT BY
- ```chmod +x niktto.sym-fix.sh```
+ ```chmod +x nikto-sym-fix.sh```
+ finally 
+ >> ```./nikto-sym-fix.sh```
 
-nikto
-
+Now take a cup of copy and wait for a while untilit set-up!! :-D
+###################################################################
 
 =====
 
