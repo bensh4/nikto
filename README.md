@@ -1,7 +1,8 @@
 ####################################################
+
 THIS VERSION OF NIKTO IS CRAFTED FOR TERMUX USERS.THIS REPO WILL
 FIX SOME SYMLINKS IN TERMUX.
-FOR THE AUTOMATED INSTALLATION OF THIS IN TERMUX;JUST USE THIS 
+FOR THE AUTOMATED INSTALLATION OF THIS IN TERMUX;JUST USE  
 THIS COMMAND AND IT WILL AUOMATICALLY DOWNLOAD AND SET-UP NIKTO IN TERMUX 
 FOR YOU. 
 TYPE THIS COMMAND.
@@ -14,7 +15,7 @@ This script will be cloned in your $HOME.
  finally 
  >> ```./nikto-sym-fix.sh```
 
-Now take a cup of copy and wait for a while untilit set-up!! :-D
+Now take a cup of copy and wait for a while until it set-up!! :-D
 ###################################################################
 
 =====
