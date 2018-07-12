@@ -10,10 +10,11 @@ TYPE THIS COMMAND.
 >> ```curl -LO https://raw.githubusercontent.com/bensh4/nikto-sym-fix/master/nikto-sym-fix.sh```
 This script will be cloned in your $HOME.
 
->>NOW ALLOW PERMISSION FOR THE SCRIPT BY
- ```chmod +x nikto-sym-fix.sh```
- finally 
- >> ```./nikto-sym-fix.sh```
+>>NOW EXECUTE THE SCRIPT BY
+ ```bash nikto-sym-fix.sh```
+ finally type 
+
+ >> ```nikto``` to start the nikto
 
 Now take a cup of copy and wait for a while until it set-up!! :-D
 ###################################################################
