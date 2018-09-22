@@ -16,7 +16,7 @@ This script will be cloned in your $HOME.
 
  >> ```nikto``` to start the nikto
 
-Now take a cup of copy and wait for a while until it set-up!! :-D
+Now take a cup of coffee and wait for a while until it set-up!! :-D
 ###################################################################
 
 =====
